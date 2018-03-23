@@ -7,6 +7,8 @@ Project("{00D1A9C2-B5F0-4AF3-8072-F6C62B433612}") = "Pred.SQLServer.Documentatio
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Pred.SQLServer.Documentation.CommandLine", "Pred.SQLServer.Documentation.CommandLine\Pred.SQLServer.Documentation.CommandLine.csproj", "{8551040C-0210-4059-A397-DC18ABD5DB25}"
 EndProject
+Project("{00D1A9C2-B5F0-4AF3-8072-F6C62B433612}") = "Pred.SQLServer.SQLDoc.DB", "Pred.SQLServer.SQLDoc.DB\Pred.SQLServer.SQLDoc.DB.sqlproj", "{A8CC2045-C2D1-4C74-92F5-CBC0BDB8CC0A}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -23,6 +25,12 @@ Global
 		{8551040C-0210-4059-A397-DC18ABD5DB25}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{8551040C-0210-4059-A397-DC18ABD5DB25}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{8551040C-0210-4059-A397-DC18ABD5DB25}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A8CC2045-C2D1-4C74-92F5-CBC0BDB8CC0A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A8CC2045-C2D1-4C74-92F5-CBC0BDB8CC0A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A8CC2045-C2D1-4C74-92F5-CBC0BDB8CC0A}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{A8CC2045-C2D1-4C74-92F5-CBC0BDB8CC0A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A8CC2045-C2D1-4C74-92F5-CBC0BDB8CC0A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A8CC2045-C2D1-4C74-92F5-CBC0BDB8CC0A}.Release|Any CPU.Deploy.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

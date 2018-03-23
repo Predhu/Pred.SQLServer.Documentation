@@ -1,0 +1,1 @@
+﻿CREATE SCHEMA sqldoc AUTHORIZATION dbo;
